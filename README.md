@@ -1,3 +1,8 @@
+
+This is an open source book talk about deeplearning, I thought it's a good source for people who want to have a general view about Deeplearning Neuro Network
+
+[original link](https://github.com/MichalDanielDobrzanski/DeepLearningPython35)
+
 ## Overview
 
 ### neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
